@@ -34,3 +34,7 @@ curl -X POST http://localhost:81/predict \
 ``` 
 
 finally you should stop the container after you finish 
+
+```bash
+docker stop 'name or id'
+```
